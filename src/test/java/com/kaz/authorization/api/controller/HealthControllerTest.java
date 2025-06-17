@@ -1,4 +1,4 @@
-package com.kaz.authorization;
+package com.kaz.authorization.api.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

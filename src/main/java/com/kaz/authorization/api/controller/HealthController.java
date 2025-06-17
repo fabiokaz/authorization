@@ -1,4 +1,4 @@
-package com.kaz.authorization.api;
+package com.kaz.authorization.api.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
